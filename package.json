@@ -1,0 +1,22 @@
+{
+  "name": "phase-2-crypto-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeithWesley254/phase-2-crypto-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeithWesley254/phase-2-crypto-Api/issues"
+  },
+  "homepage": "https://github.com/KeithWesley254/phase-2-crypto-Api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

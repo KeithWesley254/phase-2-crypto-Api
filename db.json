@@ -2,9 +2,9 @@
   "userdata": [
     {
       "id": 1,
-      "fullNames": "Woody",
+      "fullName": "Woody",
       "email": "mzito@gmail.com",
-      "comments": "KF"
+      "comment": "KF"
     }
   ]
 }
